@@ -1,4 +1,4 @@
 # NBA-Stats-Project
 Web scraping NBA stats website and analyzing the data
 
-Jupyter Notebook is included in files.
+Jupyter Notebook is included in files as NBA-Stats-Project.ipynb.
